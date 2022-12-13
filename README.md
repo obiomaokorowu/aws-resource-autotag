@@ -1,5 +1,4 @@
 # aws-resource-autotag
-# aws-resource-autotag
 <h2 align="center">Auto tag AWS solution deployed with Terraform</h2>
 
 <h2 align="center">AWS Autotag Achitecture</h2>
