@@ -2,8 +2,6 @@
 # aws-resource-autotag
 <h2 align="center">Auto tag AWS solution deployed with Terraform</h2>
 
-This repository is used for my [medium blog post](https://aws.plainenglish.io/how-to-auto-tag-new-aws-resources-and-deploy-solution-with-terraform-de48ec644d95)
-
 <h2 align="center">AWS Autotag Achitecture</h2>
 
 ![Solution](https://github.com/obiomaokorowu/aws-resource-autotag/blob/main/images/Architecture.png)
